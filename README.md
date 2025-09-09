@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Dương Trần Phúc>, MSSV <222510>.
+Đây là README từ nhánh cònlict-demo.
