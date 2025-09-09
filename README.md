@@ -1,1 +1,1 @@
-Đây là README từ nhánh cònlict-demo.
+Đây là README từ nhánh main.
